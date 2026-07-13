@@ -4,9 +4,6 @@ A low-cost bimanual bilateral teleoperation framework built on the ALOHA
 architecture using two ReactorX 200 (RX200) leader arms and two ViperX 300s 
 (VX300s) follower arms on ROS 2 Humble with the Interbotix stack.
 
-![Uploading WhatsApp Image 2026-07-07 at 11.48.32 AM.jpeg…]()
-
-
 ## What this project does
 
 The operator moves the RX200 leader arms by hand. The VX300s follower arms 
